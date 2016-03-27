@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"declaration": true,
+		"module": "CommonJS",
+		"target": "es5",
+		"noImplicitAny": true,
+		"outDir": "dist"
+	},
+	"files": [
+		"src/example.ts",
+	  	"src/example/GeneratorApi/Pagegenerator.ts"
+	  ]
+}
